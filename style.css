@@ -1,0 +1,76 @@
+#nav {
+  background-color: #d5f0c1;
+}
+
+#btn-show {
+  background-color: #38419d;
+  color: white;
+}
+
+#input_new_quote {
+  padding: 5px;
+  border-radius: 15px;
+  border-width: 1px;
+}
+
+#btn_add_quote {
+  border-radius: 15px;
+  background-color: #38419d;
+  border: none;
+  color: white;
+}
+
+#show_quote {
+  background-color: #d5f0c1;
+  border-radius: 50px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  margin: 30px;
+}
+
+#input_quote{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    margin: 30px;
+}
+
+#new_quotes {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    margin: 30px;
+    background-color: rgba(245, 245, 245, 0.7); /* Change the alpha value as needed */
+    border-radius: 15px;
+}
+
+
+span {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  background-color: rgb(240, 240, 240);
+  border-radius: 7px;
+  border: none;
+}
+
+span:hover {
+  background-color: azure;
+  cursor: pointer;
+}
+
+#title{
+    /* background-color: rgba(245, 245, 245, 0.7); */
+    margin-left: 30px;
+}
